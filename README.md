@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Vercel AI SDK tools for **real-time prediction market data**. Drop-in tools that give any
-`generateText`, `streamText`, or `useChat` agent world-awareness from 30,000+ Kalshi
+`generateText`, `streamText`, or `useChat` agent world-awareness from the active Kalshi
 and Polymarket contracts — no auth required.
 
 ```ts
